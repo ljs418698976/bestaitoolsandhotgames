@@ -1,3 +1,5 @@
+Switch language  [Chinese](https://github.com/ljs418698976/bestaitoolsandhotgames/blob/main/README_zh.md)  [English](https://github.com/ljs418698976/bestaitoolsandhotgames/blob/main/README_en.md)
+
 # **2025 年，我私藏的一批神级工具网站：效率、灵感、娱乐，一网打尽**
 
 如果用一句话来形容 2025 年的互联网，那一定是：**神仙网站太多，而你的时间太少。**
