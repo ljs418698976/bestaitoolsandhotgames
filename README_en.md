@@ -1,5 +1,5 @@
 
-Switch language  [Chinese](https://github.com/ljs418698976/bestaitoolsandhotgames/blob/main/README.md)  [English](https://github.com/ljs418698976/bestaitoolsandhotgames/blob/main/README_en.md)
+Switch language  [Chinese](https://github.com/ljs418698976/bestaitoolsandhotgames/blob/main/README_zh.md)  [English](https://github.com/ljs418698976/bestaitoolsandhotgames/blob/main/README_en.md)
 
 # **My Private Collection of God-Tier Tool Websites in 2025: Efficiency, Inspiration, and Entertainment All in One Place**
 
